@@ -28,7 +28,7 @@ import com.example.abk03_04unscrumble.databinding.GameFragmentBinding
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 
 /**
- * Fragment where the game is played, contains the game logic.
+ * Fragment where the game is played, contains the game logic. edited for comit ok
  */
 class GameFragment : Fragment() {
 
