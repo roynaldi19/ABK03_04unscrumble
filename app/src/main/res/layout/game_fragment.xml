@@ -6,7 +6,7 @@
     <data>
         <variable
             name="gameViewModel"
-            type="com.example.abk03_04unscrumble.ui.game.GameViewModel" />
+            type="com.roynaldi19.gd1_03unscrumble.ui.game.GameViewModel" />
 
         <variable
             name="maxNoOfWords"

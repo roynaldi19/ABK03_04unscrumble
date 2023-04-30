@@ -1,4 +1,4 @@
-package com.example.abk03_04unscrumble.ui.game
+package com.roynaldi19.gd1_03unscrumble.ui.game
 
 import android.text.Spannable
 import android.text.SpannableString

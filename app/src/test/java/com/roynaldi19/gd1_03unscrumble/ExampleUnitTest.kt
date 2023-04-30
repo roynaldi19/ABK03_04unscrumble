@@ -1,4 +1,4 @@
-package com.example.abk03_04unscrumble
+package com.roynaldi19.gd1_03unscrumble
 
 import org.junit.Test
 

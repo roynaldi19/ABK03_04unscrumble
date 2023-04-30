@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.abk03_04unscrumble.ui.game
+package com.roynaldi19.gd1_03unscrumble.ui.game
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -23,8 +23,8 @@ import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
-import com.example.abk03_04unscrumble.R
-import com.example.abk03_04unscrumble.databinding.GameFragmentBinding
+import com.roynaldi19.gd1_03unscrumble.R
+import com.roynaldi19.gd1_03unscrumble.databinding.GameFragmentBinding
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 
 class GameFragment : Fragment() {

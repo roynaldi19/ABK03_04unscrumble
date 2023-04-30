@@ -1,4 +1,4 @@
-package com.example.abk03_04unscrumble
+package com.roynaldi19.gd1_03unscrumble
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
